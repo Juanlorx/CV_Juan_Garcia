@@ -1,28 +1,31 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan Esteban Garcia Quintero
+**Profesión:** _Tecnologo de Analisis de Datos_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** (jg1845949@gmail.com)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## 🏢 Experiencia Laboral.
+### **Sena** _(2025 - Actualidad)_
+- Programacion
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Labor personal** _(2024 - 2025)_
+- Mantenimiento a equipos de computo.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - Actualidad)_
+- Bachiller
+- Tecnico en Mecanizado en Torno y Fresadora Convencional
+- Tecnico en Soporte y Mantenimiento de las TICS
+- Programacion
 
 ## 💡 Habilidades
 - **Habilidad 1**
+- Dibujar
 - **Habilidad 2**
+- Marketing
 - **Habilidad 3**
 
 ---
